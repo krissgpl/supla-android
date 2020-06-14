@@ -1,8 +1,8 @@
 <resources>
 
-    <string name="app_name" translatable="false">SUPLA</string>
+    <string name="app_name" translatable="false">SUPLA 2</string>
     <string name="slogan" translatable="false">"YOUR HOME CONNECTED"</string>
-    <string name="menubar_title" translatable="false">supla</string>
+    <string name="menubar_title" translatable="false">supla 2</string>
     <string name="homepage" translatable="false">www.supla.org</string>
     <string name="homepage_url" translatable="false">https://www.supla.org</string>
     <string name="forumpage_url" translatable="false">https://forum.supla.org</string>
